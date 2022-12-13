@@ -15,6 +15,7 @@ Java Platform, Micro Edition (Java ME) –
 targeting environments with limited resources.
 Java Platform, Standard Edition (Java SE) – 
 targeting workstation environments.
+most important programming language.
 Java Platform, Enterprise Edition (Java EE) – 
 targeting large distributed enterprise or Internet environments.
 The classes in the Java APIs are organized into separate groups called packages. E
