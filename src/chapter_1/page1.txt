@@ -1,7 +1,9 @@
 
 
 Some notes of git practice!
+Page 1.
 
+Now steps are making of some changing, in order to reassign the document.
+Also remove of some codes which are not necessary.
 Let's learn git & GitHub usage.
-
 This can be a large text file,
