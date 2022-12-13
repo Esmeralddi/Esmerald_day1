@@ -5,6 +5,11 @@ Sun has defined and supports four editions of Java targeting different
 application environments and segmented many of its APIs so that 
 they belong to one of the platforms. The platforms are:
 
+The classes in the Java APIs are organized into separate groups called packages. E
+ach package contains a set of related interfaces, classes, subpackages and exceptions.
+Sun also provided an edition called Personal Java that has been superseded by later,
+standards-based Java ME configuration-profile pairings.
+
 Java Card for smart-cards.
 Java Platform, Micro Edition (Java ME) – 
 targeting environments with limited resources.
