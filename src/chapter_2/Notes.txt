@@ -1,0 +1,17 @@
+
+At the beggining of chapter 2 add this information.
+
+Performance
+Java performance
+Programs written in Java have a reputation for being slower
+and requiring more memory than those written in C++.
+However, Java programs' execution speed improved 
+significantly with the introduction of just-in-time compilation
+in 1997/1998 for Java 1.1,
+the addition of language features supporting better code analysis 
+(such as inner classes, the StringBuilder class, optional assertions, etc.),
+and optimizations in the Java virtual machine, such as 
+HotSpot becoming Sun's default JVM in 2000. With Java 1.5, 
+the performance was improved with the addition of the java.util.concurrent package, 
+including lock-free implementations of the ConcurrentMaps and other multi-core collections, 
+and it was improved further with Java 1.6.
