@@ -1,0 +1,7 @@
+
+
+Some notes of git practice!
+
+Let's learn git & GitHub usage.
+
+This can be a large text file,
