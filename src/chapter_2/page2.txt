@@ -7,3 +7,17 @@ It must be robust and secure.
 It must be architecture-neutral and portable.
 It must execute with high performance.
 It must be interpreted, threaded, and dynamic.
+
+Versions
+
+As of September 2021, Java 8, 11 and 17 are
+ supported as Long-Term Support (LTS) versions.[39]
+
+Oracle released the last zero-cost public update
+for the legacy version Java 8 LTS in January 2019 for commercial use,
+although it will otherwise still support Java 8 with public updates
+for personal use indefinitely. Other vendors have begun to offer
+zero-cost builds of OpenJDK 18 and 8, 11 and 17 that are still
+receiving security and other upgrades.
+
+Major release versions of Java, along with their release dates:
