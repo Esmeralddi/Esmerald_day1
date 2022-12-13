@@ -1,4 +1,9 @@
 
+Add this information at the end of paragraph 2 of page 2.
+
+Java JVM and bytecode
+Main articles: Java (software platform) and Java virtual machine
+
 At the beggining of chapter 2 add this information.
 
 Performance
